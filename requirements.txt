@@ -11,7 +11,7 @@ lazy-object-proxy==1.4.3
 MarkupSafe==1.1.1
 mccabe==0.6.1
 npyscreen==4.10.5
-numpy==1.17.4
+numpy==1.22.0
 opencv-python==4.1.2.30
 pandas==0.25.3
 pipenv==2018.11.26
